@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.agniclub.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.agniclub.com/about</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/login</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/register</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/giftcode</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/free-giftcode</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/faq</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.agniclub.com/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/about</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/login</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/register</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/giftcode</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/free-giftcode</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/faq</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://agniclublogin.com/sitemap.xml/contact</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
